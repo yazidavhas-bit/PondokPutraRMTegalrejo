@@ -1,0 +1,88 @@
+*,
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 200vh;
+    background-color: aqua;
+}
+
+.Navigation {
+    background-color: green;
+    height: 100px;
+}
+
+.navul {
+    display: flex;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.tolsbar {
+    color: azure;
+    text-decoration: none;
+}
+
+.nali {
+    background-color: black;
+    border-radius: 17px;
+    list-style-type: none;
+    padding: 20px;
+    margin: 20px;
+    color: antiquewhite;
+    font-size: 20px;
+}
+
+.nali:hover {
+    background-color: rgb(4, 74, 102);
+    transition: .5s ease-in-out;
+    border-radius: 17px;
+}
+
+.gmr1 {
+    background-color: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.dalamgambar {
+    width: 150px;
+    height: 150px;
+    border-radius: 80px;
+    box-shadow: 0px 0px 18px 9px rgba(0, 0, 0, 0.55);
+}
+
+.tulisan-1 {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dlm-tulisan {
+    font-size: 25px;
+}
+
+.gmr2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+
+.ig {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+}
